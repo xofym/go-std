@@ -1,4 +1,4 @@
-module github.com/euskadi31/go-std
+module github.com/xofym/go-std
 
 go 1.12
 
